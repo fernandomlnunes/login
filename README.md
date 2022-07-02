@@ -1,2 +1,2 @@
 # login
-tela de login localStorage
+Tela de login/ Cadastro com DB no localStorage.
